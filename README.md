@@ -29,6 +29,14 @@ Figma · Adobe Creative Suite · FigJam · AI Image Generation · VS Code · Cod
 **Currently exploring**  
 Vibe Coding · AI Agents · Next.js · Creative AI Workflows
 
+## Featured project
+
+### [BLOCKED LOVE](https://github.com/0520Zhenkai/Coding-22017653)
+
+A Creative Computing project exploring domestic abuse through the metaphor of bees confined in cages—creatures that represent people who should be free to fly, love, and live. The work reflects on confinement, love, and the harm caused by violence.
+
+**Keywords:** Chains · Seal · Love · Heart · Cage
+
 ## A little more
 
 Outside of design, I enjoy exploring new AI tools, experimenting with visual styles, and turning random ideas into little prototypes.
